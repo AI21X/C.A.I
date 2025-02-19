@@ -1,7 +1,7 @@
 # AI21X Labs 🚀
 
 <div align="center">
-  <img src="./docs/static/img/ai21x_banner.jpg" alt="AI21X Banner" width="100%" />
+  <img src="./docs/static/img/AI21X-cover.png" alt="AI21X Banner" width="100%" />
 </div>
 
 <div align="center">
