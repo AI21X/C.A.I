@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ai21x-labs/ai21x&type=Date)](https://star-history.com/#ai21x-labs/ai21x&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AI21X/C.A.I&type=Date)](https://star-history.com/#AI21X/C.A.I&Date)
